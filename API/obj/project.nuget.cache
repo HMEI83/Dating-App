@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "DrYnN7B1LQOPY1iMjSRk6p4TxXFuf26VbZ6F3OifnW7WxBQbYgAGV5RnOhVmzAWBXTnDQx34gjbKhLgejMnI9A==",
+  "dgSpecHash": "ty3ZLtRgyN4dHZ6h0xKXncf0MghrGvpsmrBmpbOIGlzbabJ5hlmTj2gAjEo4qMCy5lbIbfRo5QBd4xcndY3WlA==",
   "success": true,
   "projectFilePath": "/Users/leowei/Desktop/ASPNET/DatingApp/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/leowei/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
-    "/Users/leowei/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/7.0.2/microsoft.aspnetcore.authentication.jwtbearer.7.0.2.nupkg.sha512",
     "/Users/leowei/.nuget/packages/microsoft.aspnetcore.openapi/7.0.2/microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
     "/Users/leowei/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/Users/leowei/.nuget/packages/microsoft.data.sqlite.core/7.0.2/microsoft.data.sqlite.core.7.0.2.nupkg.sha512",
@@ -30,8 +29,6 @@
     "/Users/leowei/.nuget/packages/microsoft.identitymodel.abstractions/6.26.0/microsoft.identitymodel.abstractions.6.26.0.nupkg.sha512",
     "/Users/leowei/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.26.0/microsoft.identitymodel.jsonwebtokens.6.26.0.nupkg.sha512",
     "/Users/leowei/.nuget/packages/microsoft.identitymodel.logging/6.26.0/microsoft.identitymodel.logging.6.26.0.nupkg.sha512",
-    "/Users/leowei/.nuget/packages/microsoft.identitymodel.protocols/6.15.1/microsoft.identitymodel.protocols.6.15.1.nupkg.sha512",
-    "/Users/leowei/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.15.1/microsoft.identitymodel.protocols.openidconnect.6.15.1.nupkg.sha512",
     "/Users/leowei/.nuget/packages/microsoft.identitymodel.tokens/6.26.0/microsoft.identitymodel.tokens.6.26.0.nupkg.sha512",
     "/Users/leowei/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/leowei/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
